@@ -1,5 +1,7 @@
 # Week 1 – Hardware Fundamentals
 
+CompTIA A+ provides foundational knowledge in IT support, hardware, networking fundamentals, and troubleshooting methodologies. It is the first step toward building a career in infrastructure and cloud technologies.
+
 ## Topics Covered
 
 - CPU
